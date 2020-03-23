@@ -9,7 +9,7 @@
 
 ## 软件基本使用
 
-![fig1](images\fig1.jpg)
+![fig1](images/fig1.jpg)
 
 - 红色方框1的按钮可以选择连接或者断开图像
 - 红色方框2的按钮选择测试的场景，分为simple和hard
@@ -18,7 +18,7 @@
 - 红色方框5分别显示图像帧数、蓝车控制指令帧数、黄车控制指令帧数
 - 常用小技巧：连接图像后，使用``、1-10、-、+、i、o、p、[`可以控制蓝车数量从0-16变化，如果同时按住`ctrl`可以控制黄车数量；鼠标可以直接拖动机器人
 
-![fig2](images\fig2.jpg)
+![fig2](images/fig2.jpg)
 
 - 点击红色方框1的按钮可以切换到log的工具栏
 - 红色方框2的按钮可以开始或者停止录制log，默认开启
@@ -26,7 +26,7 @@
 
 ## 控制流程
 
-![fig3](images\fig3.png)
+![fig3](images/fig3.png)
 
 **基本流程**
 
@@ -234,7 +234,7 @@ CURVE和POLYGON现在用不了
 
 **Example——绘制一个圆**
 
-![fig4](images\fig4.png)
+![fig4](images/fig4.png)
 
 c++：
 
